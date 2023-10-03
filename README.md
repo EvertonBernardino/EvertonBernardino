@@ -5,8 +5,6 @@ Sou Formado em Análise e Desenvolvimento de Sistemas, apaixonado por tecnologia
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/everton-bernardino-980638182/)[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=E94D5F)](everton.c.s.bernardino@gmail.com)[![Perfil DIO](https://img.shields.io/badge/-Meu%20Perfil%20na%20DIO-30A3DC?style=for-the-badge)](https://web.dio.me/users/ceverto11)[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=5547991146459)
 
-
-
 <div>
   <h2>GitHub</h2>
   <a href="https://github.com/EvertonBernardino">
@@ -26,4 +24,3 @@ Sou Formado em Análise e Desenvolvimento de Sistemas, apaixonado por tecnologia
   <img align="center" alt="Everton-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
 </div>
 
-![snake gif](https://github.com/EvertonBernardino/EvertonBernardino/blob/output/github-contribution-grid-snake.svg)
