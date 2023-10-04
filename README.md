@@ -8,7 +8,7 @@ Sou Formado em Análise e Desenvolvimento de Sistemas, apaixonado por tecnologia
 <div>
   <h2>GitHub</h2>
   <a href="https://github.com/EvertonBernardino">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=EvertonBernardino&show_icons=true&theme=github_dark_dimmed&include_all_commits=true&cont_private=true&"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=EvertonBernardino&show_icons=true&theme=github_dark_dimmed&include_all_commits=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EvertonBernardino&theme=github_dark_dimmed&layout=compact"/>
 </div>
     
