@@ -1,7 +1,7 @@
 <h1 color="#f8da59"> Olá, Eu Sou o Everton Bernardino ✌️😉</h1>
 <p >Sou Formado em Análise e Desenvolvimento de Sistemas, apaixonado por tecnologia e programação. Estou sempre buscando aprender novas linguagens e ferramentas, como Java Script, Angular, Java e Python que estudo em algumas plataformas ou na documentação oficial. Já publiquei alguns projetos no GitHub, como uma calculadora, dois sites e um jogo da velha em C e C++. Além de programador, também sou designer gráfico, com experiência em marketing digital. Trabalhei como instrutor e assistente de marketing, desenvolvendo artes, conteúdos audiovisuais e gestão de tráfego. Gosto de desafios, criatividade e inovação.</p>
 
-<img width="100rem" src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif"/>
+
 
 <h2>Conecte-se comigo</h2> 
 
@@ -28,4 +28,4 @@
 </div>
 
 <img width="100%" src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif"/>
-
+<img width="100rem" src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif"/>
